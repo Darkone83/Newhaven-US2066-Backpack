@@ -10,4 +10,4 @@
 
 <a href="https://discord.gg/k2BQhSJ"><img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Images/discord.svg"></a>
 
-A backpack designed for the Newhaven us2066 OLEDs that contains a 3.3v LDO. This only designed to be ised on the XBOX SMBBUS
+A backpack designed for the Newhaven us2066 OLEDs that contains a 3.3v LDO. This only designed to be used on the XBOX SMBBUS
